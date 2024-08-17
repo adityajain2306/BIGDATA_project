@@ -1,4 +1,4 @@
-# BIGDATA_project
+
 # Bank Customer Segmentation and Visualization Using Big Data Technologies
 
 ## Overview
